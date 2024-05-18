@@ -1,7 +1,7 @@
-# PCAP Raider - PCAP Analysis CLI Tool
+# PCAP Raider - Advanced PCAP Analysis CLI Tool
 
 ## Project Overview
-PCAP Raider is an interactive command-line interface (CLI) tool for analyzing PCAP files. It allows users to load PCAP files, perform advanced packet analysis, and get feedback on specific queries. The tool is designed to be useful for anyone learning or using networking.
+PCAP Raider is an interactive command-line interface (CLI) tool for analyzing PCAP files. It allows users to load PCAP files, perform advanced packet analysis, and get feedback on specific queries. The tool is designed to be useful for network administrators, NOC, or SOC analysts.
 
 ## Features
 - **Load and Analyze PCAP Files**: Load PCAP files for detailed analysis.
@@ -22,17 +22,45 @@ PCAP Raider is an interactive command-line interface (CLI) tool for analyzing PC
 
 ## Setup Instructions
 1. **Set Up Environment:**
-   - Install VirtualBox and set up a Kali Linux VM.
+   - Install Virtualization software (VMWare or Virtualbox) and set up a Linux VM.
 
 2. **Install Required Tools:**
-   - Python and Pip: `sudo apt install python3 python3-pip`
-   - Scapy: `pip3 install scapy`
+   - Python
+   - Scapy
 
 3. **Create and Run the CLI Tool:**
    - Create a project directory and add `pcap_raider.py`.
    - Run the tool: `python3 pcap_raider.py`
 
 ## Usage
-1. **Load a PCAP File:**
-   ```shell
-   pcap_raider> load <filepath>
+Detailed usage instructions can be found in the [USAGE.md](USAGE.md) file.
+
+## Quick Start
+To quickly get started, use the following commands:
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/AhsanA3/PCAP-Raider.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd PCAP-Raider
+    ```
+
+3. Run the CLI tool:
+
+    ```bash
+    python3 pcap_raider.py
+    ```
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/AhsanA3/PCAP-Raider/blob/main/LICENSE) file for details.
+
+## Author
+- [Ahsan Akoshile](https://github.com/AhsanA3)
+
+## Contributors
+
