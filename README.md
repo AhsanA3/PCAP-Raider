@@ -59,8 +59,7 @@ To quickly get started, use the following commands:
 ## License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/AhsanA3/PCAP-Raider/blob/main/LICENSE) file for details.
 
-## Author
+## Authors
 - [Ahsan Akoshile](https://github.com/AhsanA3)
-
-## Contributors
+- [Bilal Lawal Alhassan](https://github.com/1bilal)
 
