@@ -1,4 +1,4 @@
-# PCAP Raider - Advanced PCAP Analysis CLI Tool
+# PCAP Raider - Advanced PCAP Analysis CLI Tool (Under Development)
 
 ## Project Overview
 PCAP Raider is an interactive command-line interface (CLI) tool for analyzing PCAP files. It allows users to load PCAP files, perform advanced packet analysis, and get feedback on specific queries. The tool is designed to be useful for network administrators, NOC, or SOC analysts.
